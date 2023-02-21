@@ -1,0 +1,60 @@
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h2{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	color: blue;
+}
+header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.bohodir{
+	background: blue;
+}
+img{
+	border-radius: 45px;
+	width: 100%;
+}
+a{
+	color: white;
+}
+p:hover{
+	color: red;
+}
+b:hover{
+	color: red;
+}
+ .matn{1
+ 	text-align: center;
+ 	color: blue;
+ }
+ .knopka {
+ 	background-color: white;
+ 	border-radius: 50px;
+ 	color: blue;
+ 	padding: 12px 20px;
+ }
+ .knopka:hover{
+ 	color: red;
+ }
+ .lishka {
+ 	margin-top: 25px;
+ }
+ .line{
+ 	width: 150px;
+ 	background-color: blue;
+ 	height: 2px;
+ 	margin: auto;
+ }
